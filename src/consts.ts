@@ -3,32 +3,32 @@ import type { Site, Page, Links, Socials } from "@types"
 // Global
 export const SITE: Site = {
   TITLE: "Stephen Zheng",
-  DESCRIPTION: "Stephen Zheng 的个人主页：作品集、项目与思考分享。",
+  DESCRIPTION: "郑浩男 (Stephen Zheng) 的个人主页 —— 全栈 & AI Agent 开发者，浙江大学硕士在读。作品集、项目与思考。",
   AUTHOR: "Stephen Zheng",
 }
 
 // Work Page
 export const WORK: Page = {
   TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
+  DESCRIPTION: "我的实习与工作经历。",
 }
 
 // Blog Page
 export const BLOG: Page = {
   TITLE: "Blog",
-  DESCRIPTION: "Writing on topics I am passionate about.",
+  DESCRIPTION: "项目复盘、技术笔记与一些思考。",
 }
 
 // Projects Page
 export const PROJECTS: Page = {
   TITLE: "Projects",
-  DESCRIPTION: "Recent projects I have worked on.",
+  DESCRIPTION: "我做过的产品与项目。",
 }
 
 // Search Page
 export const SEARCH: Page = {
   TITLE: "Search",
-  DESCRIPTION: "Search all posts and projects by keyword.",
+  DESCRIPTION: "按关键词搜索文章与项目。",
 }
 
 // Links
